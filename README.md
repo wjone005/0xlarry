@@ -5,11 +5,11 @@
 
 <table>
   <tr>
-    <td width="250">
+    <td width="300">
       <img src="images/hegic-autostake.compressed.png">
     </td>
-    <td width="550">
-      <h2>Hegic AutoStake</h2>
+    <td width="500">
+      <h1>Hegic AutoStake</h1>
       <a href="http://hegic.autostake.co/">website</a>
       ・
       <a href="https://github.com/Larrypcdotcom/hegic-autostake">contracts</a>
@@ -18,22 +18,22 @@
     </td>
   </tr>
   <tr>
-    <td width="250">
+    <td width="300">
       <img src="images/hegic-yield-estimator.compressed.png">
     </td>
-    <td width="550">
-      <h2>Hegic Yield Estimator</h2>
+    <td width="500">
+      <h1>Hegic Yield Estimator</h1>
       <a href="https://larrypcdotcom.github.io/hegic-yield-estimator/">website</a>
       ・
       <a href="https://github.com/Larrypcdotcom/hegic-yield-estimator">code</a>
     </td>
   </tr>
   <tr>
-    <td width="250">
+    <td width="300">
       <img src="images/runedata.compressed.png">
     </td>
-    <td width="550">
-      <h2>RuneData</h2>
+    <td width="500">
+      <h1>RuneData</h1>
       <a href="https://runedata.info/">website</a>
       ・
       <a href="https://github.com/Larrypcdotcom/runedata">code</a>
