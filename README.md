@@ -1,3 +1,8 @@
+## Social Media
+
+![](https://img.shields.io/twitter/follow/_0x_Larry?label=follow%20on%20twitter&style=for-the-badge&logo=twitter)
+![](https://img.shields.io/github/followers/Larrypcdotcom?label=follow%20on%20GitHub&style=for-the-badge&logo=github)
+
 ## Projects
 
 <img align="left" width="150" height="150" src="https://via.placeholder.com/150x150"> **Undisclosed Project**
@@ -8,9 +13,7 @@ An undisclosed DeFi project currently under development
 
 <br>
 
-#
-
-<img align="left" width="150" height="150" src="images/hegic.png"> **Hegic AutoStake**
+<img align="left" width="128" height="128" src="images/hegic.png"> **Hegic AutoStake**
 
 Transaction bundler for [Hegic](https://www.hegic.co/) LPs to redeem and stake their farmed tokens
 
@@ -18,9 +21,7 @@ Transaction bundler for [Hegic](https://www.hegic.co/) LPs to redeem and stake t
 
 <br>
 
-#
-
-<img align="left" width="150" height="150" src="images/hegic.png"> **Hegic Yield Calculator**
+<img align="left" width="128" height="128" src="images/hegic.png"> **Hegic Yield Calculator**
 
 Tool for [Hegic](https://www.hegic.co/) LPs to estimate their yield farming returns
 
@@ -28,9 +29,7 @@ Tool for [Hegic](https://www.hegic.co/) LPs to estimate their yield farming retu
 
 <br>
 
-#
-
-<img align="left" width="150" height="150" src="images/thorchain.png"> **Runedata**
+<img align="left" width="128" height="128" src="images/thorchain.png"> **Runedata**
 
 Data analytics site for [THORChain](https://thorchain.org/) liquidity providers
 
@@ -38,17 +37,8 @@ Data analytics site for [THORChain](https://thorchain.org/) liquidity providers
 
 <br>
 
-#
-
-<img align="left" width="150" height="150" src="images/ethereum.png"> **did-it-beat-eth.com**
+<img align="left" width="128" height="128" src="images/ethereum.png"> **did-it-beat-eth.com**
 
 Compare performances of altcoins against ETH
 
 [website](https://did-it-beat-eth.com/)・[code](https://github.com/Larrypcdotcom/did-it-beat-eth)
-
-<br>
-
-## Social Media
-
-![](https://img.shields.io/twitter/follow/_0x_Larry?label=follow%20on%20twitter&style=for-the-badge&logo=twitter)
-![](https://img.shields.io/github/followers/Larrypcdotcom?label=follow%20on%20GitHub&style=for-the-badge&logo=github)
