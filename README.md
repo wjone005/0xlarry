@@ -1,42 +1,44 @@
-### Hi there 👋
+## Projects
 
-![](https://img.shields.io/twitter/follow/Larrypcdotcom?label=follow%20on%20twitter&style=for-the-badge&logo=twitter)
+<img align="left" width="150" height="150" src="https://via.placeholder.com/150x150"> **Undisclosed Project**
+
+An undisclosed DeFi project currently under development
+
+[code](https://github.com/404)
+
+#
+
+<img align="left" width="150" height="150" src="images/hegic.jpg"> **Hegic AutoStake**
+
+Transaction bundler for [Hegic](https://www.hegic.co/) LPs to redeem and stake their farmed tokens
+
+[website](http://hegic.autostake.co/)・[contract](https://github.com/Larrypcdotcom/hegic-autostake)・[frontend](https://github.com/Larrypcdotcom/hegic-autostake-frontend)
+
+#
+
+<img align="left" width="150" height="150" src="images/hegic.jpg"> **Hegic Yield Calculator**
+
+Tool for [Hegic](https://www.hegic.co/) LPs to estimate their yield farming returns
+
+[website](larrypcdotcom.github.io/hegic-yield-estimator/)・[code](https://github.com/Larrypcdotcom/hegic-yield-estimator)
+
+#
+
+<img align="left" width="150" height="150" src="images/thorchain.png"> **Runedata**
+
+Data analytics site for [THORChain](https://thorchain.org/) liquidity providers
+
+[website](https://runedata.info/)・[v3](https://github.com/Larrypcdotcom/runedata-v3)・[v2](https://github.com/Larrypcdotcom/runedata-v2)・[v1](https://github.com/Larrypcdotcom/runedata-v2/blob/main/python_implementation.zip)
+
+#
+
+<img align="left" width="150" height="150" src="images/ethereum.png"> **did-it-beat-eth.com**
+
+Compare performances of altcoins against ETH
+
+[website](https://did-it-beat-eth.com/)・[code](https://github.com/Larrypcdotcom/did-it-beat-eth)
+
+## Social Media
+
+![](https://img.shields.io/twitter/follow/_0x_Larry?label=follow%20on%20twitter&style=for-the-badge&logo=twitter)
 ![](https://img.shields.io/github/followers/Larrypcdotcom?label=follow%20on%20GitHub&style=for-the-badge&logo=github)
-
-<table>
-  <tr>
-    <td width="300">
-      <img src="images/hegic-autostake.compressed.png">
-    </td>
-    <td width="500">
-      <h1>Hegic AutoStake</h1>
-      <a href="http://hegic.autostake.co/">website</a>
-      ・
-      <a href="https://github.com/Larrypcdotcom/hegic-autostake">contracts</a>
-      ・
-      <a href="https://github.com/Larrypcdotcom/hegic-autostake-frontend">frontend</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="300">
-      <img src="images/hegic-yield-estimator.compressed.png">
-    </td>
-    <td width="500">
-      <h1>Hegic Yield Estimator</h1>
-      <a href="https://larrypcdotcom.github.io/hegic-yield-estimator/">website</a>
-      ・
-      <a href="https://github.com/Larrypcdotcom/hegic-yield-estimator">code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="300">
-      <img src="images/runedata.compressed.png">
-    </td>
-    <td width="500">
-      <h1>RuneData</h1>
-      <a href="https://runedata.info/">website</a>
-      ・
-      <a href="https://github.com/Larrypcdotcom/runedata">code</a>
-    </td>
-  </tr>
-</table>
