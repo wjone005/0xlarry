@@ -6,21 +6,27 @@ An undisclosed DeFi project currently under development
 
 [code](https://github.com/404)
 
+<br>
+
 #
 
-<img align="left" width="150" height="150" src="images/hegic.jpg"> **Hegic AutoStake**
+<img align="left" width="150" height="150" src="images/hegic.png"> **Hegic AutoStake**
 
 Transaction bundler for [Hegic](https://www.hegic.co/) LPs to redeem and stake their farmed tokens
 
 [website](http://hegic.autostake.co/)・[contract](https://github.com/Larrypcdotcom/hegic-autostake)・[frontend](https://github.com/Larrypcdotcom/hegic-autostake-frontend)
 
+<br>
+
 #
 
-<img align="left" width="150" height="150" src="images/hegic.jpg"> **Hegic Yield Calculator**
+<img align="left" width="150" height="150" src="images/hegic.png"> **Hegic Yield Calculator**
 
 Tool for [Hegic](https://www.hegic.co/) LPs to estimate their yield farming returns
 
 [website](larrypcdotcom.github.io/hegic-yield-estimator/)・[code](https://github.com/Larrypcdotcom/hegic-yield-estimator)
+
+<br>
 
 #
 
@@ -30,6 +36,8 @@ Data analytics site for [THORChain](https://thorchain.org/) liquidity providers
 
 [website](https://runedata.info/)・[v3](https://github.com/Larrypcdotcom/runedata-v3)・[v2](https://github.com/Larrypcdotcom/runedata-v2)・[v1](https://github.com/Larrypcdotcom/runedata-v2/blob/main/python_implementation.zip)
 
+<br>
+
 #
 
 <img align="left" width="150" height="150" src="images/ethereum.png"> **did-it-beat-eth.com**
@@ -37,6 +45,8 @@ Data analytics site for [THORChain](https://thorchain.org/) liquidity providers
 Compare performances of altcoins against ETH
 
 [website](https://did-it-beat-eth.com/)・[code](https://github.com/Larrypcdotcom/did-it-beat-eth)
+
+<br>
 
 ## Social Media
 
