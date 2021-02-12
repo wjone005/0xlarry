@@ -7,17 +7,18 @@
 
 <img align="left" width="128" height="128" src="https://via.placeholder.com/128x128"> **Undisclosed DeFi Project**
 
-<br>
-<br>
-<br>
-<br>
+Lorem ipsum
+
+[fake link](https://github.com/404)
+
 <br>
 
 <img align="left" width="128" height="128" src="thorchain.png"> **RuneData v3**
 
+Improved UI & more analytics
+
 [preview](https://larrypcdotcom.github.io/runedata-v3/)・[code](https://github.com/Larrypcdotcom/runedata-v3)
 
-<br>
 <br>
 
 ## Past Projects
