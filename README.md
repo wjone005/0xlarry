@@ -1,7 +1,7 @@
 ## Social Media
 
-![](https://img.shields.io/twitter/follow/_0x_Larry?label=follow%20on%20twitter&style=for-the-badge&logo=twitter)
-![](https://img.shields.io/github/followers/Larrypcdotcom?label=follow%20on%20GitHub&style=for-the-badge&logo=github)
+[![](https://img.shields.io/twitter/follow/_0x_Larry?label=follow%20on%20twitter&style=for-the-badge&logo=twitter)](https://twitter.com/_0x_larry)
+[![](https://img.shields.io/github/followers/Larrypcdotcom?label=follow%20on%20GitHub&style=for-the-badge&logo=github)](https://github.com/Larrypcdotcom)
 
 ## Current Projects
 
