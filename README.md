@@ -1,3 +1,7 @@
+## GitLab
+
+*I have moved to [GitLab](https://gitlab.com/0x_larry) with all my active projects! All repositories here are archived & no longer maintained.*
+
 ## Social Media
 
 [![](https://img.shields.io/twitter/follow/_0x_Larry?label=follow%20on%20twitter&style=for-the-badge&logo=twitter)](https://twitter.com/_0x_larry)
@@ -9,7 +13,7 @@
 
 Data analytics site for [THORChain](https://thorchain.org/) liquidity providers
 
-[website](https://runedata.info/)・[code](https://github.com/Larrypcdotcom/runedata-v2)
+[website](https://runedata.info/)・[code](https://gitlab.com/0x_larry/runedata)
 
 <br>
 
