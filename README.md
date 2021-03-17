@@ -17,7 +17,7 @@ Data analytics site for [THORChain](https://thorchain.org/) liquidity providers
 
 Transaction bundler for [Hegic](https://www.hegic.co/) LPs to redeem and stake their farmed tokens
 
-[website](https://hegic.autostake.co/)・[contract](https://github.com/Larrypcdotcom/hegic-autostake)・[frontend](https://github.com/Larrypcdotcom/hegic-autostake-frontend)
+[website](https://hegic.autostake.co/)・[contract](https://github.com/0xlarry/hegic-autostake)・[frontend](https://github.com/0xlarry/hegic-autostake-frontend)
 
 <br>
 
@@ -25,7 +25,7 @@ Transaction bundler for [Hegic](https://www.hegic.co/) LPs to redeem and stake t
 
 Tool for [Hegic](https://www.hegic.co/) LPs to estimate their yield farming returns
 
-[website](https://larrypcdotcom.github.io/hegic-yield-estimator/)・[code](https://github.com/Larrypcdotcom/hegic-yield-estimator)
+[website](https://0xlarry.github.io/hegic-yield-estimator/)・[code](https://github.com/0xlarry/hegic-yield-estimator)
 
 <br>
 
@@ -33,4 +33,4 @@ Tool for [Hegic](https://www.hegic.co/) LPs to estimate their yield farming retu
 
 Compare performances of altcoins against ETH
 
-[website](https://did-it-beat-eth.com/)・[code](https://github.com/Larrypcdotcom/did-it-beat-eth)
+[website](https://did-it-beat-eth.com/)・[code](https://github.com/0xlarry/did-it-beat-eth)
