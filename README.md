@@ -1,19 +1,37 @@
-### ⚠️ *I have moved to [GitLab](https://gitlab.com/0x_larry) with all my active projects! All repositories here are archived & no longer maintained.*
-
 [![](https://img.shields.io/twitter/follow/_0x_larry?label=follow%20on%20twitter&style=for-the-badge&logo=twitter)](https://twitter.com/_0x_larry)
 [![](https://img.shields.io/github/followers/0xlarry?label=follow%20on%20GitHub&style=for-the-badge&logo=github)](https://github.com/0xlarry)
 
-## Projects
+## Active projects
 
-<img align="left" width="128" height="128" src="thorchain.png"> **RuneData**
+<img align="left" width="128" height="128" src="images/lido.png"> **\[Unannounced Project\]**
+
+Passive staking solution for ??? (contracted by [Lido](https://lido.fi/))
+
+website・code
+
+<img align="left" width="128" height="128" src="images/xtoken.png"> **\[Unannounced Project\]**
+
+Passive staking solution for ??? (contracted by [xToken](https://xtoken.market/))
+
+website・code
+
+<img align="left" width="128" height="128" src="images/terra.png"> **Lunarian**
+
+Portfolio dashboard for the [Terra](https://terra.money/) ecosystem
+
+[preview](https://lunarian.herokuapp.com/)・[code](https://github.com/0xlarry/lunarian)
+
+<img align="left" width="128" height="128" src="images/thorchain.png"> **RuneData**
 
 Data analytics site for [THORChain](https://thorchain.org/) liquidity providers
 
-[website](https://runedata.info/)・[code](https://gitlab.com/0x_larry/runedata)
+[website](https://runedata.info/)・[code](https://github.com/0xlarry/runedata)
 
 <br>
 
-<img align="left" width="128" height="128" src="hegic.png"> **Hegic AutoStake**
+## Past projects
+
+<img align="left" width="128" height="128" src="images/hegic.png"> **Hegic AutoStake**
 
 Transaction bundler for [Hegic](https://www.hegic.co/) LPs to redeem and stake their farmed tokens
 
@@ -21,7 +39,7 @@ Transaction bundler for [Hegic](https://www.hegic.co/) LPs to redeem and stake t
 
 <br>
 
-<img align="left" width="128" height="128" src="hegic.png"> **Hegic Yield Calculator**
+<img align="left" width="128" height="128" src="images/hegic.png"> **Hegic Yield Calculator**
 
 Tool for [Hegic](https://www.hegic.co/) LPs to estimate their yield farming returns
 
@@ -29,7 +47,7 @@ Tool for [Hegic](https://www.hegic.co/) LPs to estimate their yield farming retu
 
 <br>
 
-<img align="left" width="128" height="128" src="ethereum.png"> **did-it-beat-eth.com**
+<img align="left" width="128" height="128" src="images/ethereum.png"> **did-it-beat-eth.com**
 
 Compare performances of altcoins against ETH
 
