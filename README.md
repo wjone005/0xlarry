@@ -9,17 +9,23 @@ Passive staking solution for ??? (contracted by [Lido](https://lido.fi/))
 
 website・code
 
+<br>
+
 <img align="left" width="128" height="128" src="images/xtoken.png"> **\[Unannounced Project\]**
 
 Passive staking solution for ??? (contracted by [xToken](https://xtoken.market/))
 
 website・code
 
+<br>
+
 <img align="left" width="128" height="128" src="images/terra.png"> **Lunarian**
 
 Portfolio dashboard for the [Terra](https://terra.money/) ecosystem
 
 [preview](https://lunarian.herokuapp.com/)・[code](https://github.com/0xlarry/lunarian)
+
+<br>
 
 <img align="left" width="128" height="128" src="images/thorchain.png"> **RuneData**
 
