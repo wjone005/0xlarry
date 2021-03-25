@@ -5,22 +5,24 @@
 
 <img align="left" width="128" height="128" src="images/lido.png"> **\[Unannounced Project\]** 
 
-Passive staking solution for ??? (contracted by [Lido](https://lido.fi/))<br>
-website・code
+Passive ??? staking solution (contracted by [Lido](https://lido.fi/))<br>
 
 <img src="https://img.shields.io/badge/solidity%20-%23363636.svg"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg"/>
+
+<br>
 
 <img align="left" width="128" height="128" src="images/xtoken.png"> **\[Unannounced Project\]**
 
-Passive staking solution for ??? (contracted by [xToken](https://xtoken.market/))<br>
-website・code
+Passive ??? staking solution (contracted by [xToken](https://xtoken.market/))<br>
 
 <img src="https://img.shields.io/badge/solidity%20-%23363636.svg"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg"/>
+
+<br>
 
 <img align="left" width="128" height="128" src="images/terra.png"> **Lunarian**
 
 Portfolio dashboard for the [Terra](https://terra.money/) ecosystem<br>
-[preview](https://lunarian.herokuapp.com/)・[code](https://github.com/0xlarry/lunarian)
+[preview](https://lunarian.herokuapp.com/)・[frontend](https://github.com/0xlarry/lunarian)・[API](https://github.com/0xlarry/lunarian-api)
 
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg"/>
 
@@ -47,7 +49,7 @@ Tool for [Hegic](https://www.hegic.co/) LPs to estimate their yield farming retu
 
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg"/> <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg"/>
 
-<img align="left" width="128" height="128" src="images/ethereum.png"> **did-it-beat-eth.com** 
+<img align="left" width="128" height="128" src="images/ethereum.png"> **did-it-beat-eth** 
 
 Compare performances of altcoins against ETH<br>
 [code](https://github.com/0xlarry/did-it-beat-eth)
