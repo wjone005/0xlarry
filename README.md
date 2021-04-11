@@ -13,7 +13,7 @@
 
 <img align="left" width="128" height="128" src="images/xtoken.png"> **\[Unannounced Project\]**
 
-Passive ??? staking solution (contracted by [xToken](https://xtoken.market/))<br>
+???<br>
 
 <img src="https://img.shields.io/badge/solidity%20-%23363636.svg"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg"/>
 
@@ -22,7 +22,7 @@ Passive ??? staking solution (contracted by [xToken](https://xtoken.market/))<br
 <img align="left" width="128" height="128" src="images/terra.png"> **Lunarian**
 
 Portfolio dashboard for the [Terra](https://terra.money/) ecosystem<br>
-[preview](https://lunarian.herokuapp.com/)・[frontend](https://github.com/0xlarry/lunarian)・[API](https://github.com/0xlarry/lunarian-api)
+[website](https://lunarian.herokuapp.com/)・[code](https://github.com/0xlarry/lunarian)
 
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg"/>
 
