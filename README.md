@@ -5,7 +5,7 @@
 
 <img align="left" width="128" height="128" src="images/lido.png"> **\[Unannounced Project\]** 
 
-Passive ??? staking solution (contracted by [Lido](https://lido.fi/))<br>
+???<br>
 
 <img src="https://img.shields.io/badge/solidity%20-%23363636.svg"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg"/>
 
