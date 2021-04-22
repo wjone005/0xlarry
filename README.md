@@ -3,6 +3,7 @@
 
 ## Current projects
 
+<!--
 <img align="left" width="128" height="128" src="images/lido.png"> **\[Unannounced Project\]** 
 
 ???<br>
@@ -10,7 +11,7 @@
 <img src="https://img.shields.io/badge/solidity%20-%23363636.svg"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg"/>
 
 <br>
-
+-->
 <img align="left" width="128" height="128" src="images/xtoken.png"> **\[Unannounced Project\]**
 
 ???<br>
